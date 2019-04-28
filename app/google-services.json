@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "67143566469",
+    "firebase_url": "https://ferovy-bonus-1547898589425.firebaseio.com",
+    "project_id": "ferovy-bonus-1547898589425",
+    "storage_bucket": "ferovy-bonus-1547898589425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67143566469:android:7ef12da5b4024967",
+        "android_client_info": {
+          "package_name": "com.example.ferovybonuspartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67143566469-siqme0aqelpjp4tfls65uj07ah6jp4hq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ferovybonuspartner",
+            "certificate_hash": "22d4a7bec9ac534b6fef1bb5bbe3779659982d09"
+          }
+        },
+        {
+          "client_id": "67143566469-b87o64ibvo6f5bt5shnfhdoii6de2i1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR3LqZNrd1AQ18Q6NgucXzLNKgZs9zHQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67143566469-b87o64ibvo6f5bt5shnfhdoii6de2i1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
